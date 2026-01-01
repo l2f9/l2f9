@@ -16,7 +16,7 @@
 🧠 What I've Built
 🤖 AI & Machine Learning
 
-IRIS Glucose Monitoring — ML pipeline for non-invasive glucose estimation from iris imaging
+Glucose Monitoring — ML pipeline for non-invasive glucose estimation from iris imaging
 AI Compliance Checker — LLM-powered tool with Gemini API & structured prompts
 Facial Recognition — Real-time detection with OpenCV
 
